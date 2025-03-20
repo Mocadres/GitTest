@@ -1,0 +1,9 @@
+Admin@DESKTOP-KBNHOMT MINGW64 /e/second-repo (master)
+$ git pull E:/tmp/test/GitTest main --allow-unrelated-histories
+remote: Enumerating objects: 6, done.
+remote: Counting objects: 100% (6/6), done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 6 (delta 0), reused 3 (delta 0), pack-reused 0 (from 0)
+Unpacking objects: 100% (6/6), 1.10 KiB | 80.00 KiB/s, done.
+From E:/tmp/test/GitTest
+ * branch            main       -> FETCH_HEAD
